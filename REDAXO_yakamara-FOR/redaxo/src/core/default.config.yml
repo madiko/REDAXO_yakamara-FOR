@@ -84,9 +84,9 @@ temp_prefix: tmp_
 db:
     1:
         host: localhost
-        login: root
-        password: ''
-        name: redaxo5
+        login: rex_core_for_dev
+        password: B0i8BXkHZ0iv63eUtbCP
+        name: rex_core_for_dev
         persistent: false
         ssl_key: null
         ssl_cert: null
